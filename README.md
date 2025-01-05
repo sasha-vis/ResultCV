@@ -1,3 +1,3 @@
 # ResultCV
-My resume here
-[My resume site](https://sasha-vis.github.io/ResultCV/)
+My resume here - 
+[Resume](https://sasha-vis.github.io/ResultCV/)
